@@ -1,6 +1,6 @@
-# AQU1NAT0R
+# HEALTHFIT
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Se trata de una aplicación para uso diario que intentará motivar que lleves un estilo de vida saludable,a su vez permitirá controlarlo mediante el registro de tus datos. También contará con un glosario de recetas y ejercicios, que se ajustarán a las opciones que marques (zona del cuerpo, alimentos a tu disposición, etc... ).
 
 ## Integrantes del equipo
 
@@ -10,4 +10,9 @@ Noelia Arencibia Jaramillo (ajnoelia)
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+- Conocer nuevas recetas.
+- Aprovechar los alimentos de tu despensa. 
+- Registrar tus datos (Conocer tu IMC, quema calorica de grasa).
+- Hacer retos de ejercicio.
+
+
