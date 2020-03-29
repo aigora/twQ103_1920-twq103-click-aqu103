@@ -1,0 +1,53 @@
+#include <stdio.h>
+ 
+ 
+ 
+ 
+ // menu principal con 3 opciones: iniciar sesion, crear cuenta o salir de la aplicación
+ 
+ 
+void main(){
+	int opcion=0;
+	char salir[50];
+	char usuario[50];
+	char contrasena[50];
+	char correoelectronico[50];
+	
+	do{
+	
+	printf("MENU DE OPCIONES\n");
+	printf("1. Iniciar sesion\n");
+	printf("2. Crear cuenta\n");
+	printf("3. Salir de la aplicación\n");
+	printf("Opcion que quiere:\n");
+	scanf("%d", &opcion);
+	switch(opcion){
+		
+		case 1:
+			printf("Introduce tu usuario:\n");
+			scanf("%s",usuario);
+			printf("Introduce tu contraseña:\n");
+			scanf("%s", contrasena);
+			break;
+			
+		case 2:
+	 	    printf("Introduce tu correo electronico:\n");
+		    scanf("%s", correoelectronico);
+		    printf("Elige tu nombre de ususario:\n");
+		    scanf("%s", usuario);
+		    printf("Introduce una contraseña:\n");
+		    scanf("%s", contrasena);
+		    printf("Repite tu contraseña para confirmarla:\n");
+		    scanf("%s", contrasena);
+		    break;
+		    
+		case 3:
+		    printf("¿Está seguro de que quiere salir del programa?\n"); 
+			scanf("%s", salir);   
+			break;
+	}
+	
+	} while(opcion!=3){
+  printf("Error\n");
+	
+}
