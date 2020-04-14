@@ -6,7 +6,7 @@
  // menu principal con 3 opciones: iniciar sesion, crear cuenta o salir de la aplicación
  
  
-int main(){
+void main(){
 	int opcion=0;
 	char salir[50];
 	char usuario[50];
