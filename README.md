@@ -11,7 +11,7 @@ Noelia Arencibia Jaramillo (ajnoelia)
 ## Objetivos del trabajo
 
 - Conocer nuevas recetas.
-- Aprovechar los alimentos de tu despensa. 
+- Aprovechar los alimentos de tu despensa. (Crear un buscador, el usuario introducirá un alimento y apartir de este alimento saldrán nuevas recetas que lo contengan)
 - Registrar tus datos (Conocer tu IMC, quema calorica de grasa).
 - Hacer retos de ejercicio.
 
